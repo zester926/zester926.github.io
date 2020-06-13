@@ -102,7 +102,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:100@ceedup.com"
-    - label: "Website"
+    - label: "CEEDUP"
       icon: "fas fa-fw fa-link"
       url: "https://ceedup.com/"
     - label: "Twitter"
