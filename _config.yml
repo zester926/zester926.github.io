@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "philBaek"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "개발 일기장"
 name                     : "philBaek"
-description              : "An amazing website."
+description              : "philBaek's devlog"
 url                      : "https://zester926.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "philBaek (백광록)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Wanna be a **great** Developer"
+  location         : "Daegu, Republic of Korea"
+  email            : "100@ceedup.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:100@ceedup.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,10 +113,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/zester926"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/philbaek_kr/"
 
 # Site Footer
 footer:
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      icon: "fab fa-fw fa-github"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/philbaek_kr/"
 
 
 # Reading Files
