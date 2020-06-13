@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -102,9 +102,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:100@ceedup.com"
-    - label: "Website"
+    - label: "CEEDUP"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://ceedup.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zester926"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
