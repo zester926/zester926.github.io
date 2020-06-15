@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-layout: home
 toc: true
 ---
 
