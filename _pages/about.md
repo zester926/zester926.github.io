@@ -1,8 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-layout: "default"
-author_pofile: "true"
+layout: default
+author_profile: "true"
 toc: true
 ---
 
