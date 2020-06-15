@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+layout: post
 title: "About"
 toc: true
 ---
