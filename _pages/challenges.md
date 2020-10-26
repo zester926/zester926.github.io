@@ -1,5 +1,8 @@
 ---
 permalink: /challenges/
-title: "challenges"
-toc: true
+title: Challenges
+layout: collection
+collection: challenges
+entries_layout: grid
+classes: wide
 ---
