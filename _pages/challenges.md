@@ -1,8 +1,7 @@
 ---
-permalink: /challenges/
-title: Challenges
-layout: collection
-collection: challenges
-entries_layout: grid
-classes: wide
+permalink: /categories/challenges/
+title: "Challenges"
+layout: category
+author_profile: true
+taxonomy: challenges
 ---
