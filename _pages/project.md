@@ -1,5 +1,7 @@
 ---
-permalink: /project/
+permalink: /categories/project/
 title: "Project"
-toc: true
+layout: category
+author_profile: true
+taxonomy: project
 ---

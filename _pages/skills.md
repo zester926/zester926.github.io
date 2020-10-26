@@ -1,5 +1,6 @@
 ---
-permalink: /skills/
+permalink: /categories/skills
 title: "Skills"
-toc: true
+layout: categories
+author_profile: true
 ---
