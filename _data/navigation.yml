@@ -4,7 +4,7 @@ main:
      url: /about/
    - title: "Project"
      url: /categories/project
-   - title: "Challenges"
-     url: /categories/challenges
-   - title: "Post by Category"
+   - title: "Posts by Tag"
+     url: /tags/
+   - title: "Posts by Category"
      url: /categories/
