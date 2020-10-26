@@ -36,7 +36,7 @@ AI는 제게 지적 호기심을 불러일으켰고, 요즘은 주로 온디바�
 <br>
 
 ## 경력
-[**CEEDUP Inc.**](http://ceedup.com) | *2018.11 ~*  
+[**CEEDUP Inc.**](http://ceedup.com) | *2018.11 ~ now*  
 **Embedded System Engineer (Team Lead)**
 <ul>
 	<li>IoT 분야 임베디드 시스템 엔지니어 (AWS, GCP 기반 모니터링 및 제어 시스템 개발)</li>
