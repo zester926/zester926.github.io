@@ -2,9 +2,11 @@
 main:
    - title: "About"
      url: /about/
+   - title: "Portfolio"
+     url: /portfolio/
    - title: "Project"
      url: /categories/project
-   - title: "Skills"
-     url: /categories/skills
    - title: "Challenges"
      url: /categories/challenges
+   - title: "Post by Categories"
+     url: /categories/
