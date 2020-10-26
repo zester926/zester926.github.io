@@ -38,8 +38,10 @@ AI는 제게 지적 호기심을 불러일으켰고, 요즘은 주로 온디바�
 
 <details>
 <summary>경력</summary>
+<div>
 <a href="http://ceedup.com"><h4>CEEDUP Inc.</h4></a> | <i>2018.11 ~</i><br>
-<h4>Embedded System Engineer (Team Lead)**</h4><br>
+</div>
+<h4>Embedded System Engineer (Team Lead)</h4><br>
 <ul>
 	<li>IoT 분야 임베디드 시스템 엔지니어 (AWS, GCP 기반 모니터링 및 제어 시스템 개발)</li>
 	<li>STM32, NRF52, Arduino, Raspberry pi 기반 Peripheral(acc, camera, mic, modem 등) 제어</li>
@@ -50,7 +52,9 @@ AI는 제게 지적 호기심을 불러일으켰고, 요즘은 주로 온디바�
 
 <details>
 <summary>학력</summary>
+<div>
 <a href="http://knu.ac.kr"><h4>경북대학교</h4></a> | <i>2013.3 ~ 2020.2</i><br>
+</div>
 <h4>학사, 전자공학부</h4><br>
 <ul>
 	<li>컴퓨터 및 로봇 비전 연구실 학부 연구생</li>
@@ -59,52 +63,63 @@ AI는 제게 지적 호기심을 불러일으켰고, 요즘은 주로 온디바�
 	파이썬 및 C언어 교육 담당. ML/DL 스터디 참여
 </ul>
 </details>
+<br>
 
 <details>
 <summary>자격증, 수료증</summary>
 합격 후기는 자격증 이름을 클릭해주세요<br>
-<a href="http://zester926.github.io"><h4>ISTQB CTFL</h4></a> | <i>2018.10</i><br>
+<div>
+<a href="http://zester926.github.io"><h4>ISTQB CTFL</h4></a> | <i>2018.10</i>
+</div>
+<div>
 <a href="http://zester926.github.io"><h4>OPIc AL</h4></a> | <i>2020.07</i><br>
+</div>
 </details>
 
 <details>
 <summary>수상이력</summary>
-<h4>제품개발 및 창업분야 우수</h4><br>
+<h4>제품개발 및 창업분야 우수</h4>
 <i>2019년 11월 • 영화진흥위원회</i><br>
 2019 제7회 문화데이터 활용 경진대회 - 저전력 IoT 문화재 관리 및 보안 디바이스<br>
 <br>
 
-<h4>기업부문 장려상</h4><br>
+<h4>기업부문 장려상</h4>
 <i>2019년 9월 • 대구테크노파크</i><br>
 ICT 스마트 디바이스 전국 공모전 - 저전력 IoT 문화재 관리 및 보안 디바이스<br>
 <br>
 
-<h4>대학생부문 SK혁신상</h4><br>
+<h4>대학생부문 SK혁신상</h4>
 <i>2019년 9월 • SK행복나눔재단</i><br>
 2019 소셜벤처 경연대회 - 독거노인 낙상사고 및 고독사 감지 디바이스<br>
 <br>
 
-<h4>기술분야 이사장상</h4><br>
+<h4>기술분야 이사장상</h4>
 <i>2019년 7월 • KT그룹희망나눔재단</i><br>
 2019 Social Change Maker 공모전 - 독거노인 낙상사고 및 고독사 감지 디바이스<br>
 <br>
 
-<h4>대상</h4><br>
+<h4>대상</h4>
 <i>2018년 11월 • 경북대학교 소프트웨어교육센터</i><br>
 2018 SW 융합 해커톤 대회 - 아두이노 기반 스마트팜 웹/앱/디바이스 통합 솔루션<br>
 </details>
 
 <details>
 <summary>교육</summary>
+<div>
 <h4>정보보안 및 SW 테스트 교육</h4> | <i>2020.2.17 ~ 2020.2.19 • 경북대학교 IT 교육센터</i><br>
+</div>
 시큐어 코딩, TDD, SQL injection 및 XSS 등 공격기법 방어  교육<br>
 <br>
 
+<div>
 <h4>2018 ACES 코딩 캠프</h4> | <i>2018.7.23 ~ 2018.8.17 • 임베디드 시스템 아키텍처 및 컴파일러 연구실</i><br>
+</div>
 리눅스 및 알고리즘 연구, ARM binary 분석 및 ISA 설계<br>
 <br>
 
+<div>
 <h4>Google Machine Learning Bootcamp</h4> | <i>2020.10.14 ~ • Google</i><br>
+</div>
 ML/DL 교육, GCP 자격증 교육
 <br>
 </details>
