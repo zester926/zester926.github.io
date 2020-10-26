@@ -5,7 +5,7 @@ toc: true
 header:
   image: /assets/images/about_image.png
 ---
-<img src="/assets/images/about_me.jpg" align="center">
+<img src="/assets/images/about_me.jpg" align="center" width='400'>
 
 누추한 곳에 귀한분이 와주셔서 정말 감사드립니다!!<br>
 이 블로그는 제가 걸어온, 그리고 앞으로 걸어갈 개발자로서의 발자취를 기록하기 위한 블로그입니다.
