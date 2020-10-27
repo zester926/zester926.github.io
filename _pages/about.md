@@ -6,7 +6,7 @@ header:
   image: /assets/images/about_image.png
 ---
 <div align="center">
-<img src="/assets/images/about_me.jpg" align="center">
+<img src="/assets/images/about_me.jpg" align="center"><br>
 (건치 미소 자랑중)
 </div>
 <br>
