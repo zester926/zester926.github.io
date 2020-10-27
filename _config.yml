@@ -20,7 +20,7 @@ title                    : "philBaek"
 title_separator          : "-"
 subtitle                 : "개발 일기장"
 name                     : "philBaek"
-description              : "philBaek's devlog"
+description              : "Phil's devlog"
 url                      : "https://zester926.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,15 +95,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "philBaek (백광록)"
+  name             : "Phil (백광록)"
   avatar           : "/assets/images/selfImage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Wanna be a **great** Developer"
+  bio              : "Wanna be a **great** Data Scientist"
   location         : "Daegu, Korea"
-  email            : "100@ceedup.com"
+  email            : "zester926@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:100@ceedup.com"
+      # url: "mailto:zester926@gmail.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/philbaek/"
